@@ -6,9 +6,9 @@ This project is a challenge that I set for myself, during my vacation period. Th
 # First day (03/04) - GO and RUST
 For the first day, I tried two languages for the first time: GO and RUST. GO was relatively easy, but RUST presented a bit of a challenge. I finished the GO code in the same day and RUST code on 03/06.  
 
-**GO** code can be accessed by clicking [here](https://github.com/rafaeldamiam/rafaeldamiam/challenge-go-simple-calculator).  
+**GO** code can be accessed by clicking [here](https://github.com/rafaeldamiam/challenge-go-simple-calculator).  
 
-**RUST** code can be accessed by clicking [here](https://github.com/rafaeldamiam/rafaeldamiam/challenge-rust-simple-calculator). 
+**RUST** code can be accessed by clicking [here](https://github.com/rafaeldamiam/challenge-rust-simple-calculator). 
 
 
 # Second day (03/05) - Java
