@@ -5,7 +5,8 @@ This project is a challenge that I set for myself, during my vacation period. Th
 
 # First day (03/04) - GO and RUST
 For the first day, I tried two languages for the first time: GO and RUST. GO was relatively easy, but RUST presented a bit of a challenge. I finished the GO code in the same day and RUST code on 03/06.
-This repository contains the GO code, and RUST code can be accessed by clicking [here](https://github.com/).
+GO code can be accessed by clicking [here](https://github.com/rafaeldamiam/challenge-go-simple-calculator). 
+RUST code can be accessed by clicking [here](https://github.com/).
 
 # Second day (03/05) - Java
 On the second day, I started coding with Java. Creating this simple code was easy, but after I finished it, I keep studying Java and tried for the first time use Spring Framework.
